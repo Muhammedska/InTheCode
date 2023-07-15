@@ -1,4 +1,4 @@
-** Installation **
+### Installation
 
 - `Install at least Python 3.10`
 - `>> pip install --upgrade pip`
